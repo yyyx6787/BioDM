@@ -1,5 +1,5 @@
 # BioDM: Bio-signal-guided Denoising Diffusion Probabilistic Model for Biological Dynamics
-# **Revised version of BioDM: https://anonymous.4open.science/r/BioDM-6B05/BioDM_Revised_version.pdf**
+# **Revised version of BioDM: https://anonymous.4open.science/r/BioDM-6B05/BioDM_Revised_version.pdf (or click the pdf on the left panel)**
 ## Denoising Diffusion Probabilistic Model, in Pytorch
 
 
