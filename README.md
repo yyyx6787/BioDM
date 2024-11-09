@@ -1,6 +1,9 @@
 # BioDM: Bio-signal-guided Denoising Diffusion Probabilistic Model for Biological Dynamics
 ## Denoising Diffusion Probabilistic Model, in Pytorch
 
+
+#Revised version of BioDM: https://anonymous.4open.science/r/BioDM-6B05/BioDM_Revised_version.pdf
+
 Implementation of BioDM: Bio-signal-guided Denoising Diffusion Probabilistic Model for Biological Dynamics in Pytorch. First diffusion-based model for bio-signal-guided generation. We introduce a simple variant to the DDPM method that incorporates Information Bottleneck for attribution and is able to generate samples that exclusively contain the signal-relevant components.
 
 
